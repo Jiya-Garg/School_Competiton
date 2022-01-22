@@ -89,5 +89,8 @@
   overflow-x:hidden;
   
 }
-
+#myNavbar {
+    position: fixed;
+}    
+    
 

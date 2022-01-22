@@ -89,8 +89,18 @@
   overflow-x:hidden;
   
 }
-#myNavbar {
-    position: fixed;
-} 
-    
+/*About Header*/ 
+#about-image{
+    background-size: 150px;
+    width: 1250px;
+}
 
+#menu-image{
+    background-size: 150px;
+    width: 1250px;
+}
+
+#reviews-header{
+    background-size: 150px;
+    width: 1250px;
+}

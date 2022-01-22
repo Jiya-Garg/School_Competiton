@@ -104,3 +104,6 @@
     background-size: 150px;
     width: 1250px;
 }
+#myNavbar {
+    position: fixed;
+}

@@ -123,24 +123,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-/*About Header*/ 
-#about-image{
-    background-size: 150px;
-    width: 1250px;
-}
 
-#menu-image{
-    background-size: 150px;
-    width: 1250px;
-}
-
-#reviews-header{
-    background-size: 150px;
-    width: 1250px;
-}
-#myNavbar {
-    position: fixed;
-}
 
 /*Paratha*/
 #paratha{

@@ -122,3 +122,57 @@
     color: rgb(1, 1, 26);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+/*About Header*/ 
+#about-image{
+    background-size: 150px;
+    width: 1250px;
+}
+
+#menu-image{
+    background-size: 150px;
+    width: 1250px;
+}
+
+#reviews-header{
+    background-size: 150px;
+    width: 1250px;
+}
+#myNavbar {
+    position: fixed;
+}
+
+/*Paratha*/
+#paratha{
+    width: 250px;
+    position: relative;
+   right: 440px;
+   top: 20px;
+
+}
+
+#text-about{
+   font-family: sans-serif;
+   position: relative;
+   top: -115px;
+   left: 118px;
+   font-size: 15px;
+
+}
+
+/*logo*/
+
+.logo{
+    width: 200px;
+    position: relative;
+   left: 440px;
+   top: 10px;
+}
+
+.logo-text{
+    font-family: sans-serif;
+    position: relative;
+    top: -175px;
+    right: 118px;
+    font-size: 15px;
+}
